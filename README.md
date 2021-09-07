@@ -31,3 +31,6 @@ conda install -c anaconda openpyxl
 conda install -c conda-forge folium
 conda install --channel conda-forge pysal
 ```
+## Additional data
+
+ US Census Bureau [TIGER](https://www2.census.gov/geo/tiger/GENZ2018/description.pdf)  [database](https://www2.census.gov/geo/tiger/GENZ2018/shp/cb_2018_us_state_20m.zip) to visualize state boundaries 
