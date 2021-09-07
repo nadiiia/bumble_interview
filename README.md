@@ -29,4 +29,5 @@ conda install -c conda-forge seaborn
 conda install -c conda-forge descartes 
 conda install -c anaconda openpyxl
 conda install -c conda-forge folium
+conda install --channel conda-forge pysal
 ```
