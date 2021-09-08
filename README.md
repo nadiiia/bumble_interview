@@ -1,4 +1,4 @@
-# Bumble interview practival task
+# Bumble interview practical task
 
 ## Analysis
 
