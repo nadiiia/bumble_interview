@@ -1,5 +1,12 @@
 # Bumble interview practival task
 
+## Analysis
+
+
+**Bumble_interview_US_census_data.ipynb**  contains data EDA, some maps and example of possible geo-expansion.
+**Bumble_interview_US_census_data-expanded_clustering.ipynb** is focused on different types of clustering techniques.
+
+
 ## Additional data
 
  US Census Bureau [TIGER](https://www2.census.gov/geo/tiger/GENZ2018/description.pdf)  [database](https://www2.census.gov/geo/tiger/GENZ2018/shp/cb_2018_us_state_20m.zip) to visualize state boundaries 
