@@ -30,7 +30,7 @@ conda install -c conda-forge descartes
 conda install -c anaconda openpyxl
 conda install -c conda-forge folium
 conda install --channel conda-forge pysal
-conda install -c conda-forge pyarrow
+conda install -c conda-forge clusterpy
 ```
 ## Additional data
 
