@@ -4,8 +4,10 @@
 
 
 **Bumble_interview_US_census_data.ipynb**  contains data EDA, some maps and example of possible geo-expansion.
+
 **Bumble_interview_US_census_data-expanded_clustering.ipynb** is focused on different types of clustering techniques.
 
+![map](./images/choropleth.png)
 
 ## Additional data
 
