@@ -14,6 +14,12 @@
  US Census Bureau [TIGER](https://www2.census.gov/geo/tiger/GENZ2018/description.pdf)  [database](https://www2.census.gov/geo/tiger/GENZ2018/shp/cb_2018_us_state_20m.zip) to visualize state boundaries 
  
  Please download this data and save to /data 
+ 
+ 
+## Mapping 
+
+Please have a look at map implementation - index.html
+ 
 
 ## Requirements
 
