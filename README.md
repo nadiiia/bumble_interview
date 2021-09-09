@@ -19,6 +19,8 @@
 ## Mapping 
 
 Please have a look at map implementation - index.html
+
+or go to https://nadiiainterview.tiiny.site/
  
 
 ## Requirements
